@@ -36,7 +36,7 @@
 **Tools used:** Python, Sklearn, Numpy, Pandas, Matplotlib, Seaborn
 ![KNN SGD](/assets/img/knnsgd.jpeg)
 
-### 
+### Thyroid Disease Prediction using Machine Learning Approaches
 [Publication](https://link.springer.com/article/10.1007/s40009-020-00979-z)
 **AIM:** From the different machine learning techniques, compared widely used three algorithms namely logistic regression, decision trees and k-nearest neighbor (kNN) algorithms to predict and evaluate their performance in terms of accuracy. This study has represented the intuition of how to predict the thyroid disease and highlighted how to apply the logistic regression, decision trees and kNN as a tool for the classification.
 **Tools used:** Python, Sklearn, Numpy, Pandas, Matplotlib, Seaborn
