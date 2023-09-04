@@ -1,2 +1,3 @@
-# GyanendraChaubey.github.io
-This repository is to bring my profile published.
+# [GyanendraChaubey] (https://gyanendrachaubey.github.io/) 
+
+Please visit my portfolio to have a gist of all my works.
