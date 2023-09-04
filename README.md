@@ -7,10 +7,11 @@
 - ETL: SSIS 
 - Data warehouse: Snowflake 
 - Cloud: AWS (Certified), GCP 
-- Machine Learning: Linear Regression, Logistic Regression, Decision Tree, KNN, Naïve Bayes, SVM, MLP, Random Forest, Adaboost, Xgboost, Stacking Classifier Unsupervised: PCA, K-Means ANN, CNN, RNN, Auto encoders 
-- NLP Vector Representation of Word: One-Hot, Distributed, SVD, skip gram, GloVe 
-- Image Processing Image Classification, Object Detection and Recognition 
-- Others Vscode, GitHub, Docker, CI/CD, Tableau
+- Machine Learning: Linear Regression, Logistic Regression, Decision Tree, KNN, Naïve Bayes, SVM, MLP, Random Forest, Adaboost, Xgboost, Stacking Classifier, PCA, K-Means 
+- Deep Learning: ANN, CNN, RNN, Auto encoders 
+- NLP: Vector Representation of Word: One-Hot, Distributed, SVD, skip gram, GloVe 
+- Image Processing: Image Classification, Object Detection and Recognition 
+- Others: Vscode, GitHub, Docker, CI/CD, Tableau
 
 ### Soft Skills:
 - Adaptable and flexible, Leadership, Good communication skills, Self Assessment, and Research Writing  
@@ -26,21 +27,21 @@
 - Data Modelling for different use cases to apply the Machine Learning techniques for business usecases.
 
 **Data Science Coach @ BoardInfinity (_September 2020 - March 2021_)**
-[Coach_Profile](https://www.boardinfinity.com/u/coach/gyanendra-chaubey)
+[Coach Profile](https://www.boardinfinity.com/u/coach/gyanendra-chaubey)
 - Freelance mentoring on Python, SQL, Machine Learning, and Excel to students
 
 ## Projects
 ### Customer Purchasing Behavior Prediction using Machine Learning Classification Techniques
 [Publication](https://link.springer.com/article/10.1007/s12652-022-03837-6)
-**AIM:** Many sales and service-providing companies need to talk up related customers while launching the new products, services, and updated versions of existing products. While doing so, they need to target their existing customers. The behavior of these customers gives companies information about how to sell products. This paper presents a comparative study of different machine learning techniques that have been applied to the problem of customer purchasing behavior prediction. Experiments are done using supervised classification machine learning techniques like logistic regression, decision tree, k-nearest neighbors (KNN), Naïve Bayes, SVM, random forest, stochastic gradient descent (SGD), ANN, AdaBoost, XgBoost, and dummy classifier, as well as some hybrid algorithms that use stacking like SvmAda, RfAda, and KnnSgd. Models are evaluated using the cross-validation technique. Furthermore, the confusion matrix and ROC curve are used to calculate the accuracy of each model. Finally, the best classifier is a hybrid classifier using the ensemble stacking technique (KnnSgd), with an accuracy of 92.42%. KnnSgd gives the highest accuracy with maximum features because the error of the KNN and SGD are minimized by the KNN at the end.
-**Tools used:** Python, Sklearn, Numpy, Pandas, Matplotlib, Seaborn
-![KNN SGD](/assets/img/knnsgd.jpeg)
+- Many sales and service-providing companies need to talk up related customers while launching the new products, services, and updated versions of existing products. While doing so, they need to target their existing customers. The behavior of these customers gives companies information about how to sell products. This paper presents a comparative study of different machine learning techniques that have been applied to the problem of customer purchasing behavior prediction. Experiments are done using supervised classification machine learning techniques like logistic regression, decision tree, k-nearest neighbors (KNN), Naïve Bayes, SVM, random forest, stochastic gradient descent (SGD), ANN, AdaBoost, XgBoost, and dummy classifier, as well as some hybrid algorithms that use stacking like SvmAda, RfAda, and KnnSgd. Models are evaluated using the cross-validation technique. Furthermore, the confusion matrix and ROC curve are used to calculate the accuracy of each model. Finally, the best classifier is a hybrid classifier using the ensemble stacking technique (KnnSgd), with an accuracy of 92.42%. KnnSgd gives the highest accuracy with maximum features because the error of the KNN and SGD are minimized by the KNN at the end.
+- **Tools used:** Python, Sklearn, Numpy, Pandas, Matplotlib, Seaborn
+- ![KNN SGD](/assets/img/knnsgd.jpeg)
 
 ### Thyroid Disease Prediction using Machine Learning Approaches
 [Publication](https://link.springer.com/article/10.1007/s40009-020-00979-z)
-**AIM:** From the different machine learning techniques, compared widely used three algorithms namely logistic regression, decision trees and k-nearest neighbor (kNN) algorithms to predict and evaluate their performance in terms of accuracy. This study has represented the intuition of how to predict the thyroid disease and highlighted how to apply the logistic regression, decision trees and kNN as a tool for the classification.
-**Tools used:** Python, Sklearn, Numpy, Pandas, Matplotlib, Seaborn
-![Thyroid Prediction](/assets/img/thyroid.jpeg)
+- From the different machine learning techniques, compared widely used three algorithms namely logistic regression, decision trees and k-nearest neighbor (kNN) algorithms to predict and evaluate their performance in terms of accuracy. This study has represented the intuition of how to predict the thyroid disease and highlighted how to apply the logistic regression, decision trees and kNN as a tool for the classification.
+- **Tools used:** Python, Sklearn, Numpy, Pandas, Matplotlib, Seaborn
+- ![Thyroid Prediction](/assets/img/thyroid.jpeg)
 
 ## Hackathons
 ### Hacktech: National Level Hackathon by IIC of REC, Banda
