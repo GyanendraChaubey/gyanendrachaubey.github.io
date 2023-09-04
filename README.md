@@ -1,18 +1,18 @@
 # Data Scientist
 
-#### Technical Skills: 
-# Languages/Tools: Python, C/C++, sql 
-# Python Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Tensorflow, Keras 
-# Data Handling Tools: MS Excel, SQL 
-# ETL: SSIS 
-# Data warehouse: Snowflake 
-# Cloud: AWS (Certified), GCP 
-# Machine Learning: Linear Regression, Logistic Regression, Decision Tree, KNN, Naïve Bayes, SVM, MLP, Random Forest, Adaboost, Xgboost, Stacking Classifier Unsupervised: PCA, K-Means ANN, CNN, RNN, Auto encoders 
-# NLP Vector Representation of Word: One-Hot, Distributed, SVD, skip gram, GloVe 
-# Image Processing Image Classification, Object Detection and Recognition 
-# Others Vscode, GitHub, Docker, CI/CD, Tableau
+### Technical Skills: 
+- Languages/Tools: Python, C/C++, sql 
+- Python Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Tensorflow, Keras 
+- Data Handling Tools: MS Excel, SQL 
+- ETL: SSIS 
+- Data warehouse: Snowflake 
+- Cloud: AWS (Certified), GCP 
+- Machine Learning: Linear Regression, Logistic Regression, Decision Tree, KNN, Naïve Bayes, SVM, MLP, Random Forest, Adaboost, Xgboost, Stacking Classifier Unsupervised: PCA, K-Means ANN, CNN, RNN, Auto encoders 
+- NLP Vector Representation of Word: One-Hot, Distributed, SVD, skip gram, GloVe 
+- Image Processing Image Classification, Object Detection and Recognition 
+- Others Vscode, GitHub, Docker, CI/CD, Tableau
 
-#### Soft Skills:
+### Soft Skills:
 - Adaptable and flexible, Leadership, Good communication skills, Self Assessment, and Research Writing  
 
 ## Education
@@ -43,7 +43,7 @@
 ![Thyroid Prediction](/assets/img/thyroid.jpeg)
 
 ## Hackathons
-# Hacktech: National Level Hackathon by IIC of REC, Banda
+### Hacktech: National Level Hackathon by IIC of REC, Banda
 **Theme: AgroTech** (_06-07September-2019_)
 - Aim: Design a web application where a user can able to know his appropriate crop to plant (Crop selection in a particular Area and predict its last three years cost and selling price). 
 - Algorithm Used: Used the Decision Trees to predict the appropriate crop. 
