@@ -35,13 +35,11 @@
 [Publication](https://link.springer.com/article/10.1007/s12652-022-03837-6)
 - Many sales and service-providing companies need to talk up related customers while launching the new products, services, and updated versions of existing products. While doing so, they need to target their existing customers. The behavior of these customers gives companies information about how to sell products. This paper presents a comparative study of different machine learning techniques that have been applied to the problem of customer purchasing behavior prediction. Experiments are done using supervised classification machine learning techniques like logistic regression, decision tree, k-nearest neighbors (KNN), Naïve Bayes, SVM, random forest, stochastic gradient descent (SGD), ANN, AdaBoost, XgBoost, and dummy classifier, as well as some hybrid algorithms that use stacking like SvmAda, RfAda, and KnnSgd. Models are evaluated using the cross-validation technique. Furthermore, the confusion matrix and ROC curve are used to calculate the accuracy of each model. Finally, the best classifier is a hybrid classifier using the ensemble stacking technique (KnnSgd), with an accuracy of 92.42%. KnnSgd gives the highest accuracy with maximum features because the error of the KNN and SGD are minimized by the KNN at the end.
 - **Tools used:** Python, Sklearn, Numpy, Pandas, Matplotlib, Seaborn
-- ![KNN SGD](/assets/img/knnsgd.jpeg)
 
 ### Thyroid Disease Prediction using Machine Learning Approaches
 [Publication](https://link.springer.com/article/10.1007/s40009-020-00979-z)
 - From the different machine learning techniques, compared widely used three algorithms namely logistic regression, decision trees and k-nearest neighbor (kNN) algorithms to predict and evaluate their performance in terms of accuracy. This study has represented the intuition of how to predict the thyroid disease and highlighted how to apply the logistic regression, decision trees and kNN as a tool for the classification.
 - **Tools used:** Python, Sklearn, Numpy, Pandas, Matplotlib, Seaborn
-- ![Thyroid Prediction](/assets/img/thyroid.jpeg)
 
 ## Hackathons
 ### Hacktech: National Level Hackathon by IIC of REC, Banda
