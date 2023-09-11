@@ -1,4 +1,5 @@
 # Data Scientist
+! [Logo] (https://github.com/GyanendraChaubey/gyanendrachaubey.github.io/blob/main/assets/imgs/gyan_circle.png)
 
 ### Technical Skills: 
 - Languages/Tools: Python, C/C++, sql 
