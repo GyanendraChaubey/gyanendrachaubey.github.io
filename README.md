@@ -77,3 +77,5 @@
 - **Github Arctic Code Vault Contributor** contributed code to several repositories in the 2020 GitHub
 Archive Program
 - **NPTEL Star** completed 8 courses and passed in all from NPTEL in a year
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GyanendraChaubey&label=Profile%20views&color=0e75b6&base=1000&style=flat-square" alt="GyanendraChaubey" /> </p>
